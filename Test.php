@@ -1,3 +1,3 @@
 <?php
 
-echo "Hallo ruimte";
+echo "Hallo ruimte is babe";
